@@ -1,0 +1,27 @@
+{
+    "players": [
+        {
+            "name": "Edwin",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "name": "Carlos",
+            "x": 0,
+            "y": 1
+        }
+    ],
+
+    "actions": [
+        {
+            "action": "up",
+            "player": "Edwin",
+            "amount": 1
+        }, 
+        {
+            "action": "right",
+            "player": "Edwin",
+            "amount": 2
+        }
+    ]
+}
